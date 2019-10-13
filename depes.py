@@ -15,7 +15,7 @@ imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar {wallpaper}: ")
 message = raw_input("Isi Pesan lu tambahin <br> kalo kurang :v  : ")
 textcolor = raw_input("Warna text (contoh=green): ")
-youtubeid = raw_input("youtube kode (MUSIK): ")
+youtubeid = raw_input("youtube kode kosong juga boleh (MUSIK): ")
 
 
 #Open the index
